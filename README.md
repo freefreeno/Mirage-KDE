@@ -5,8 +5,8 @@
 
 ## Credits
 
- I recolored the Sweet Plasma theme and Aurorae theme for this theme.
+ I recolored the Sweet Plasma theme.
  Sweet KDE can be found here:
  https://github.com/EliverLara/Sweet.git
- 
-# Mirage-KDE
+ https://store.kde.org/p/1294174
+
