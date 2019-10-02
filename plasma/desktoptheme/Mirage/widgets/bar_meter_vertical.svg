@@ -120,29 +120,29 @@
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.83333331" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#0bfdf0;fill-opacity:1;stroke:none"
+       style="fill:#8700ff;fill-opacity:1;stroke:none"
        d="m 98,9 h 3 v 3 h -3 z"
        id="bar-active-center" />
     <g
        id="bar-active-top"
        transform="translate(-18)"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#8700ff;fill-opacity:1">
       <path
          id="path3205"
          d="m 119,5 h -3 v 3 h 3 z"
-         style="fill:#0bfdf0;fill-opacity:1;stroke:none"
+         style="fill:#8700ff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="bar-active-topright"
        transform="translate(-18)"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#8700ff;fill-opacity:1">
       <g
          id="g3209"
-         style="fill:#0bfdf0;fill-opacity:1">
+         style="fill:#8700ff;fill-opacity:1">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#0bfdf0;fill-opacity:1;stroke:none"
+           style="fill:#8700ff;fill-opacity:1;stroke:none"
            d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
            id="path3213" />
       </g>
@@ -150,45 +150,45 @@
     <g
        transform="matrix(1,0,0,-1,-18,21)"
        id="bar-active-bottomright"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#8700ff;fill-opacity:1">
       <g
          id="g3217"
-         style="fill:#0bfdf0;fill-opacity:1">
+         style="fill:#8700ff;fill-opacity:1">
         <path
            id="path3221"
            d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
-           style="fill:#0bfdf0;fill-opacity:1;stroke:none"
+           style="fill:#8700ff;fill-opacity:1;stroke:none"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
        transform="matrix(1,0,0,-1,-18,21)"
        id="bar-active-bottom"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#8700ff;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#0bfdf0;fill-opacity:1;stroke:none"
+         style="fill:#8700ff;fill-opacity:1;stroke:none"
          d="m 119,5 h -3 v 3 h 3 z"
          id="path3227" />
     </g>
     <g
        transform="matrix(-1,0,0,1,217,0)"
        id="bar-active-topleft"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#8700ff;fill-opacity:1">
       <g
          id="g3231"
-         style="fill:#0bfdf0;fill-opacity:1">
+         style="fill:#8700ff;fill-opacity:1">
         <path
            id="path3235"
            d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
-           style="fill:#0bfdf0;fill-opacity:1;stroke:none"
+           style="fill:#8700ff;fill-opacity:1;stroke:none"
            inkscape:connector-curvature="0" />
         <use
            x="0"
            y="0"
            xlink:href="#path3235"
            id="use4179"
-           style="fill:#0bfdf0;fill-opacity:1"
+           style="fill:#8700ff;fill-opacity:1"
            width="100%"
            height="100%" />
       </g>
@@ -196,13 +196,13 @@
     <g
        id="bar-active-bottomleft"
        transform="rotate(180,108.5,10.5)"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#8700ff;fill-opacity:1">
       <g
          id="g3239"
-         style="fill:#0bfdf0;fill-opacity:1">
+         style="fill:#8700ff;fill-opacity:1">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#0bfdf0;fill-opacity:1;stroke:none"
+           style="fill:#8700ff;fill-opacity:1;stroke:none"
            d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
            id="path3243" />
       </g>
@@ -210,20 +210,20 @@
     <g
        id="bar-active-left"
        transform="matrix(0,1,1,0,89,-107)"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#8700ff;fill-opacity:1">
       <path
          id="path3249"
          d="m 119,5 h -3 v 3 h 3 z"
-         style="fill:#0bfdf0;fill-opacity:1;stroke:none"
+         style="fill:#8700ff;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <g
        transform="rotate(90,108.5,1.5)"
        id="bar-active-right"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#8700ff;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#0bfdf0;fill-opacity:1;stroke:none"
+         style="fill:#8700ff;fill-opacity:1;stroke:none"
          d="m 119,5 h -3 v 3 h 3 z"
          id="path3255" />
     </g>

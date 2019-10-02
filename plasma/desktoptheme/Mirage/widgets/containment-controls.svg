@@ -14,9 +14,9 @@
    height="128"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.0"
-   sodipodi:docname="containment-controls.svg"
+   sodipodi:docname="containment-controls.svgz"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    inkscape:export-filename="arrow-up.png"
    inkscape:export-xdpi="11.25"
@@ -31,18 +31,18 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.1876634"
-     inkscape:cx="-109.20846"
+     inkscape:zoom="1.3050203"
+     inkscape:cx="2.2840568"
      inkscape:cy="53.320779"
      inkscape:document-units="px"
      inkscape:current-layer="east-minslider"
      width="128px"
      height="128px"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="22"
      inkscape:snap-nodes="true"
      inkscape:snap-global="true"
      inkscape:window-maximized="1"
@@ -52,81 +52,81 @@
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true">
     <inkscape:grid
-       id="grid1178"
-       type="xygrid" />
+       type="xygrid"
+       id="grid1178" />
   </sodipodi:namedview>
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient3937">
       <stop
-         id="stop3939"
+         style="stop-color:#888888;stop-opacity:1;"
          offset="0"
-         style="stop-color:#888888;stop-opacity:1;;opacity:1" />
+         id="stop3939" />
       <stop
-         id="stop3941"
+         style="stop-color:#232323;stop-opacity:1;"
          offset="1"
-         style="stop-color:#232323;stop-opacity:1;;opacity:1" />
+         id="stop3941" />
     </linearGradient>
     <linearGradient
        id="linearGradient3488">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.78431374;;opacity:1"
+         id="stop3490"
          offset="0"
-         id="stop3490" />
+         style="stop-color:#ffffff;stop-opacity:0.78431374;" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.19607843;;opacity:1"
+         id="stop3492"
          offset="1"
-         id="stop3492" />
+         style="stop-color:#ffffff;stop-opacity:0.19607843;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4157">
       <stop
-         id="stop4159"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1" />
+         id="stop4159" />
       <stop
-         id="stop4161"
+         style="stop-color:#b4b4b4;stop-opacity:1;"
          offset="1"
-         style="stop-color:#b4b4b4;stop-opacity:1;;opacity:1" />
+         id="stop4161" />
     </linearGradient>
     <linearGradient
        osb:paint="solid"
        id="linearGradient6476">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1"
+         id="stop6478"
          offset="0"
-         id="stop6478" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        osb:paint="solid"
        id="linearGradient6476-1">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1"
+         id="stop6478-5"
          offset="0"
-         id="stop6478-5" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3852-7">
       <stop
-         style="stop-color:#000000;stop-opacity:0.07843138;;opacity:1"
+         id="stop3854-7"
          offset="0"
-         id="stop3854-7" />
+         style="stop-color:#000000;stop-opacity:0.07843138;" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.3137255;;opacity:1"
+         id="stop3856-1"
          offset="1"
-         id="stop3856-1" />
+         style="stop-color:#000000;stop-opacity:0.3137255;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3765-0">
       <stop
-         style="stop-color:#fafafa;stop-opacity:1;;opacity:1"
+         id="stop3767-9"
          offset="0"
-         id="stop3767-9" />
+         style="stop-color:#fafafa;stop-opacity:1;" />
       <stop
-         style="stop-color:#e2e2e2;stop-opacity:0.70588237;;opacity:1"
+         id="stop3769-1"
          offset="1"
-         id="stop3769-1" />
+         style="stop-color:#e2e2e2;stop-opacity:0.70588237;" />
     </linearGradient>
     <style
        id="current-color-scheme"
@@ -169,7 +169,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -185,224 +185,224 @@
        id="hint-tile-center"
        style="opacity:0.65;fill:#023812;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       transform="matrix(0,-1,1,0,34.441941,137)"
-       style="fill:#ffffff;fill-opacity:1;opacity:1"
-       id="g4025" />
+       id="g4025"
+       style="fill:#ffffff;fill-opacity:1"
+       transform="matrix(0,-1,1,0,34.441941,137)" />
     <g
-       transform="translate(-0.009,109)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="south-offsetslider"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;opacity:1">
+       transform="translate(-0.009,109)">
       <path
-         d="M 20,1 H 8 V 6 L 14.009,13 20,6 Z"
-         style="fill:#ced1dc;fill-opacity:1;opacity:1"
+         inkscape:connector-curvature="0"
          id="path2"
-         inkscape:connector-curvature="0" />
+         style="fill:#c3c7d1;fill-opacity:1"
+         d="M 20,1 H 8 V 6 L 14.009,13 20,6 Z" />
       <rect
-         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.0205636;stroke-miterlimit:1.41420996;stroke-dasharray:none"
+         ry="1.1919192"
+         y="0"
+         x="0"
+         height="19"
+         width="28"
          id="rect817"
-         width="28"
-         height="19"
-         x="0"
-         y="0"
-         ry="1.1919192" />
+         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.0205636;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(1,0,0,-1,-0.009,108)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="north-offsetslider"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;opacity:1">
+       transform="matrix(1,0,0,-1,-0.009,108)">
       <path
-         d="M 20,1 H 8 V 6 L 14.009,13 20,6 Z"
-         style="fill:#ced1dc;fill-opacity:1;opacity:1"
+         inkscape:connector-curvature="0"
          id="path2-8"
-         inkscape:connector-curvature="0" />
+         style="fill:#c3c7d1;fill-opacity:1"
+         d="M 20,1 H 8 V 6 L 14.009,13 20,6 Z" />
       <rect
-         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.0205636;stroke-miterlimit:1.41420996;stroke-dasharray:none"
+         ry="1.1919192"
+         y="0"
+         x="0"
+         height="19"
+         width="28"
          id="rect817-5"
-         width="28"
-         height="19"
-         x="0"
-         y="0"
-         ry="1.1919192" />
+         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.0205636;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0,1,1,0,36.491,100)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="east-offsetslider"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;opacity:1">
+       transform="matrix(0,1,1,0,36.491,100)">
       <path
-         d="M 20,1 H 8 V 6 L 14.009,13 20,6 Z"
-         style="fill:#ced1dc;fill-opacity:1;opacity:1"
+         inkscape:connector-curvature="0"
          id="path2-7"
-         inkscape:connector-curvature="0" />
+         style="fill:#c3c7d1;fill-opacity:1"
+         d="M 20,1 H 8 V 6 L 14.009,13 20,6 Z" />
       <rect
-         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.0205636;stroke-miterlimit:1.41420996;stroke-dasharray:none"
+         ry="1.1919192"
+         y="0"
+         x="0"
+         height="19"
+         width="28"
          id="rect817-1"
-         width="28"
-         height="19"
-         x="0"
-         y="0"
-         ry="1.1919192" />
+         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.0205636;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
     </g>
     <g
-       transform="rotate(90,-8.2545,63.7455)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="west-offsetslider"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;opacity:1">
+       transform="rotate(90,-8.2545,63.7455)">
       <path
-         d="M 20,1 H 8 V 6 L 14.009,13 20,6 Z"
-         style="fill:#ced1dc;fill-opacity:1;opacity:1"
+         inkscape:connector-curvature="0"
          id="path2-8-7"
-         inkscape:connector-curvature="0" />
+         style="fill:#c3c7d1;fill-opacity:1"
+         d="M 20,1 H 8 V 6 L 14.009,13 20,6 Z" />
       <rect
-         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.0205636;stroke-miterlimit:1.41420996;stroke-dasharray:none"
-         id="rect817-5-5"
-         width="28"
+         ry="1.1919192"
+         y="0"
+         x="0"
          height="19"
-         x="0"
-         y="0"
-         ry="1.1919192" />
+         width="28"
+         id="rect817-5-5"
+         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.0205636;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
     </g>
     <g
-       transform="translate(92,113)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="south-maxslider"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;opacity:1">
+       transform="translate(92,113)">
       <path
-         style="fill:#ced1dc;fill-opacity:1;opacity:1"
-         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         inkscape:connector-curvature="0"
          id="path2-71"
-         inkscape:connector-curvature="0" />
+         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         style="fill:#c3c7d1;fill-opacity:1" />
       <rect
-         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none"
+         ry="1.0168998"
+         y="0"
+         x="0"
+         height="15"
+         width="36"
          id="rect823"
-         width="36"
-         height="15"
-         x="0"
-         y="0"
-         ry="1.0168998" />
+         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(-1,0,0,1,128,97)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="south-minslider"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;opacity:1">
+       transform="matrix(-1,0,0,1,128,97)">
       <path
-         style="fill:#ced1dc;fill-opacity:1;opacity:1"
-         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         inkscape:connector-curvature="0"
          id="path2-71-7"
-         inkscape:connector-curvature="0" />
+         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         style="fill:#c3c7d1;fill-opacity:1" />
       <rect
-         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none"
+         ry="1.0168998"
+         y="0"
+         x="0"
+         height="15"
+         width="36"
          id="rect823-1"
-         width="36"
-         height="15"
-         x="0"
-         y="0"
-         ry="1.0168998" />
+         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
     </g>
     <g
-       transform="translate(64,77)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="north-maxslider"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;opacity:1">
+       transform="translate(64,77)">
       <path
-         style="fill:#ced1dc;fill-opacity:1;opacity:1"
-         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         inkscape:connector-curvature="0"
          id="path2-71-0"
-         inkscape:connector-curvature="0" />
+         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         style="fill:#c3c7d1;fill-opacity:1" />
       <rect
-         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none"
+         ry="1.0168998"
+         y="0"
+         x="0"
+         height="15"
+         width="36"
          id="rect823-7"
-         width="36"
-         height="15"
-         x="0"
-         y="0"
-         ry="1.0168998" />
+         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(-1,0,0,1,100,61)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="north-minslider"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;opacity:1">
+       transform="matrix(-1,0,0,1,100,61)">
       <path
-         style="fill:#ced1dc;fill-opacity:1;opacity:1"
-         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         inkscape:connector-curvature="0"
          id="path2-71-7-2"
-         inkscape:connector-curvature="0" />
+         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         style="fill:#c3c7d1;fill-opacity:1" />
       <rect
-         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none"
+         ry="1.0168998"
+         y="0"
+         x="0"
+         height="15"
+         width="36"
          id="rect823-1-0"
-         width="36"
-         height="15"
-         x="0"
-         y="0"
-         ry="1.0168998" />
+         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
     </g>
     <g
-       transform="rotate(90,33.75,53.75)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="west-maxslider"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;opacity:1">
+       transform="rotate(90,33.75,53.75)">
       <path
-         style="fill:#ced1dc;fill-opacity:1;opacity:1"
-         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         inkscape:connector-curvature="0"
          id="path2-71-0-4"
-         inkscape:connector-curvature="0" />
+         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         style="fill:#c3c7d1;fill-opacity:1" />
       <rect
-         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none"
+         ry="1.0168998"
+         y="0"
+         x="0"
+         height="15"
+         width="36"
          id="rect823-7-7"
-         width="36"
-         height="15"
-         x="0"
-         y="0"
-         ry="1.0168998" />
+         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0,-1,-1,0,103.5,56)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="west-minslider"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;opacity:1">
+       transform="matrix(0,-1,-1,0,103.5,56)">
       <path
-         style="fill:#ced1dc;fill-opacity:1;opacity:1"
-         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         inkscape:connector-curvature="0"
          id="path2-71-7-2-6"
-         inkscape:connector-curvature="0" />
+         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         style="fill:#c3c7d1;fill-opacity:1" />
       <rect
-         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none"
+         ry="1.0168998"
+         y="0"
+         x="0"
+         height="15"
+         width="36"
          id="rect823-1-0-0"
-         width="36"
-         height="15"
-         x="0"
-         y="0"
-         ry="1.0168998" />
+         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
     </g>
     <g
-       transform="rotate(90,15.75,15.75)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="east-maxslider"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;opacity:1">
+       transform="rotate(90,15.75,15.75)">
       <path
-         style="fill:#ced1dc;fill-opacity:1;opacity:1"
-         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         inkscape:connector-curvature="0"
          id="path2-71-0-4-7"
-         inkscape:connector-curvature="0" />
+         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         style="fill:#c3c7d1;fill-opacity:1" />
       <rect
-         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none"
-         id="rect823-7-7-7"
-         width="36"
-         height="15"
-         x="0"
+         ry="1.0168998"
          y="0"
-         ry="1.0168998" />
+         x="0"
+         height="15"
+         width="36"
+         id="rect823-7-7-7"
+         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0,-1,-1,0,47.5,36)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
        id="east-minslider"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996;opacity:1">
+       transform="matrix(0,-1,-1,0,47.5,36)">
       <path
-         style="fill:#ced1dc;fill-opacity:1;opacity:1"
-         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         inkscape:connector-curvature="0"
          id="path2-71-7-2-6-6"
-         inkscape:connector-curvature="0" />
+         d="m 17,2 v 11 h 4 V 2 Z M 11.050781,2.5 10.34375,3.2148438 14.085938,6.9941406 H 3 V 8.0058594 H 14.085938 L 10.34375,11.785156 11.050781,12.5 16,7.5 Z M 18,3 h 2 v 9 h -2 z"
+         style="fill:#c3c7d1;fill-opacity:1" />
       <rect
-         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none"
-         id="rect823-1-0-0-4"
-         width="36"
-         height="15"
-         x="0"
+         ry="1.0168998"
          y="0"
-         ry="1.0168998" />
+         x="0"
+         height="15"
+         width="36"
+         id="rect823-1-0-0-4"
+         style="opacity:0.2;fill:#d40000;fill-opacity:0;stroke-width:1.00697291;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
     </g>
     <rect
        style="opacity:0.1;fill:#000000;fill-opacity:1;stroke-width:1;stroke-miterlimit:1.41420996;stroke-dasharray:none"

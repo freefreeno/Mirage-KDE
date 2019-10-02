@@ -1,3 +1,3 @@
-### A dark theme for KDE plasma based on the Sweet theme.
+### Dark purple/black theme based on the sweet theme.
 
-> This theme is based on the awesome [Sweet](https://store.kde.org/p/1294729/) theme
+> This theme is based on the awesome [Sweet](https://store.kde.org/p/1294174/)theme

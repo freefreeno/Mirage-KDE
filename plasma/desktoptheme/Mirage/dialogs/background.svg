@@ -14,8 +14,8 @@
    height="66.000023"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="background.svg"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="background.svgz"
    inkscape:export-filename="/home/mcder3/Desktop/objetos/sombra.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -24,131 +24,131 @@
     <linearGradient
        id="linearGradient3989">
       <stop
-         id="stop3991"
+         style="stop-color:#000000;stop-opacity:0.78431374;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.78431374;;opacity:1" />
+         id="stop3991" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.29411766;;opacity:1"
+         id="stop3997"
          offset="0.5"
-         id="stop3997" />
+         style="stop-color:#000000;stop-opacity:0.29411766;" />
       <stop
-         id="stop3999"
+         style="stop-color:#000000;stop-opacity:0.07843138;"
          offset="0.75"
-         style="stop-color:#000000;stop-opacity:0.07843138;;opacity:1" />
+         id="stop3999" />
       <stop
-         id="stop3993"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3993" />
     </linearGradient>
     <linearGradient
        id="linearGradient3115">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1"
+         id="stop3117"
          offset="0"
-         id="stop3117" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
-         id="stop3119"
+         style="stop-color:#000000;stop-opacity:0.25490198;"
          offset="0.38461342"
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1" />
+         id="stop3119" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1"
+         id="stop3121"
          offset="0.6923067"
-         id="stop3121" />
+         style="stop-color:#000000;stop-opacity:0.09411765;" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;;opacity:1"
+         id="stop3123"
          offset="1"
-         id="stop3123" />
+         style="stop-color:#000000;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3105">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1"
+         id="stop3107"
          offset="0"
-         id="stop3107" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
-         id="stop3109"
+         style="stop-color:#000000;stop-opacity:0.25490198;"
          offset="0.38461557"
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1" />
+         id="stop3109" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1"
+         id="stop3111"
          offset="0.69230789"
-         id="stop3111" />
+         style="stop-color:#000000;stop-opacity:0.09411765;" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;;opacity:1"
+         id="stop3113"
          offset="1"
-         id="stop3113" />
+         style="stop-color:#000000;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3095">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1"
+         id="stop3097"
          offset="0"
-         id="stop3097" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
-         id="stop3099"
+         style="stop-color:#000000;stop-opacity:0.3137255;"
          offset="0.38461548"
-         style="stop-color:#000000;stop-opacity:0.3137255;;opacity:1" />
+         id="stop3099" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.11764706;;opacity:1"
+         id="stop3101"
          offset="0.69230771"
-         id="stop3101" />
+         style="stop-color:#000000;stop-opacity:0.11764706;" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;;opacity:1"
+         id="stop3103"
          offset="1"
-         id="stop3103" />
+         style="stop-color:#000000;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3085">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1"
+         id="stop3087"
          offset="0"
-         id="stop3087" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
-         id="stop3089"
+         style="stop-color:#000000;stop-opacity:0.25490198;"
          offset="0.38461521"
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1" />
+         id="stop3089" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1"
+         id="stop3091"
          offset="0.6923067"
-         id="stop3091" />
+         style="stop-color:#000000;stop-opacity:0.09411765;" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;;opacity:1"
+         id="stop3093"
          offset="1"
-         id="stop3093" />
+         style="stop-color:#000000;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3884">
       <stop
-         id="stop3886"
+         style="stop-color:#000000;stop-opacity:0.3137255;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.3137255;;opacity:1" />
+         id="stop3886" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.11764706;;opacity:1"
+         id="stop3892"
          offset="0.5"
-         id="stop3892" />
+         style="stop-color:#000000;stop-opacity:0.11764706;" />
       <stop
-         id="stop3888"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3888" />
     </linearGradient>
     <linearGradient
        id="linearGradient3827">
       <stop
-         id="stop3829"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1" />
+         id="stop3829" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1"
+         id="stop3835"
          offset="0.4545452"
-         id="stop3835" />
+         style="stop-color:#000000;stop-opacity:0.25490198;" />
       <stop
-         id="stop3837"
+         style="stop-color:#000000;stop-opacity:0.09411765;"
          offset="0.72727263"
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1" />
+         id="stop3837" />
       <stop
-         id="stop3831"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3831" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -215,17 +215,17 @@
     <linearGradient
        id="linearGradient3884-0">
       <stop
-         id="stop3886-6"
+         style="stop-color:#000000;stop-opacity:0.25490198;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1" />
+         id="stop3886-6" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1"
+         id="stop3892-3"
          offset="0.5"
-         id="stop3892-3" />
+         style="stop-color:#000000;stop-opacity:0.09411765;" />
       <stop
-         id="stop3888-8"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3888-8" />
     </linearGradient>
     <linearGradient
        y2="709.36218"
@@ -338,275 +338,275 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath3141">
       <rect
-         y="702.36218"
-         x="340"
-         height="25"
-         width="25"
+         style="fill:#ff0000;stroke:none"
          id="rect3143"
-         style="fill:#ff0000;stroke:none;opacity:1" />
+         width="25"
+         height="25"
+         x="340"
+         y="702.36218" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3145">
       <rect
-         y="702.36218"
-         x="340"
-         height="25"
-         width="25"
+         style="fill:#ff0000;stroke:none"
          id="rect3147"
-         style="fill:#ff0000;stroke:none;opacity:1" />
+         width="25"
+         height="25"
+         x="340"
+         y="702.36218" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3155">
       <rect
-         style="fill:#ff00ff;stroke:none;opacity:1"
-         id="rect3157"
-         width="30"
-         height="25"
+         y="702.36218"
          x="310"
-         y="702.36218" />
+         height="25"
+         width="30"
+         id="rect3157"
+         style="fill:#ff00ff;stroke:none" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4050">
       <rect
-         y="702.36218"
-         x="340"
-         height="25"
-         width="25"
+         style="fill:#ff0000;stroke:none"
          id="rect4052"
-         style="fill:#ff0000;stroke:none;opacity:1" />
+         width="25"
+         height="25"
+         x="340"
+         y="702.36218" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3101">
       <rect
-         style="fill:#008000;fill-opacity:1;stroke:none;opacity:1"
-         id="rect3103"
-         width="25"
-         height="25"
+         y="816.36218"
          x="416"
-         y="816.36218" />
+         height="25"
+         width="25"
+         id="rect3103"
+         style="fill:#008000;fill-opacity:1;stroke:none" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3110">
       <rect
-         style="fill:#008000;fill-opacity:1;stroke:none;opacity:1"
-         id="rect3112"
-         width="25"
-         height="25"
+         y="816.36218"
          x="361"
-         y="816.36218" />
+         height="25"
+         width="25"
+         id="rect3112"
+         style="fill:#008000;fill-opacity:1;stroke:none" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3124">
       <rect
-         style="fill:#ffff00;fill-opacity:1;stroke:none;opacity:1"
-         id="rect3126"
-         width="30"
-         height="25"
+         y="816.36218"
          x="386"
-         y="816.36218" />
+         height="25"
+         width="30"
+         id="rect3126"
+         style="fill:#ffff00;fill-opacity:1;stroke:none" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3130">
       <rect
-         y="871.36218"
-         x="386"
-         height="25"
-         width="30"
+         style="fill:#ffff00;fill-opacity:1;stroke:none"
          id="rect3132"
-         style="fill:#ffff00;fill-opacity:1;stroke:none;opacity:1" />
+         width="30"
+         height="25"
+         x="386"
+         y="871.36218" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3136">
       <rect
-         style="fill:#008000;fill-opacity:1;stroke:none;opacity:1"
-         id="rect3138"
-         width="25"
-         height="25"
+         y="871.36218"
          x="416"
-         y="871.36218" />
+         height="25"
+         width="25"
+         id="rect3138"
+         style="fill:#008000;fill-opacity:1;stroke:none" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3142">
       <rect
-         y="871.36218"
-         x="361"
-         height="25"
-         width="25"
+         style="fill:#008000;fill-opacity:1;stroke:none"
          id="rect3144"
-         style="fill:#008000;fill-opacity:1;stroke:none;opacity:1" />
+         width="25"
+         height="25"
+         x="361"
+         y="871.36218" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3162">
       <rect
-         y="-386"
-         x="841.36218"
-         height="25"
-         width="30"
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#008000;fill-opacity:1;stroke:none"
          id="rect3164"
-         style="fill:#008000;fill-opacity:1;stroke:none;opacity:1"
-         transform="matrix(0,1,-1,0,0,0)" />
+         width="30"
+         height="25"
+         x="841.36218"
+         y="-386" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3170">
       <rect
-         y="-441"
-         x="841.36218"
-         height="25"
-         width="30"
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#008000;fill-opacity:1;stroke:none"
          id="rect3172"
-         style="fill:#008000;fill-opacity:1;stroke:none;opacity:1"
-         transform="matrix(0,1,-1,0,0,0)" />
+         width="30"
+         height="25"
+         x="841.36218"
+         y="-441" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3125">
       <path
-         clip-path="none"
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path3127"
+         style="fill:#00000f;fill-opacity:1;stroke:none"
          d="m 635,787.36217 25,0 0,25 -25,0 z"
-         style="fill:#00000f;fill-opacity:1;stroke:none;opacity:1" />
+         id="path3127"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         clip-path="none" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3133">
       <path
-         style="fill:#00000f;fill-opacity:1;stroke:none;opacity:1"
-         d="m 580,787.36218 25,0 0,25 -25,0 z"
-         id="path3135"
+         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         id="path3135"
+         d="m 580,787.36218 25,0 0,25 -25,0 z"
+         style="fill:#00000f;fill-opacity:1;stroke:none" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3143">
       <path
-         style="fill:#00000f;fill-opacity:1;stroke:none;opacity:1"
-         d="m 605,787.36218 30,0 0,25 -30,0 z"
-         id="path3145"
+         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         id="path3145"
+         d="m 605,787.36218 30,0 0,25 -30,0 z"
+         style="fill:#00000f;fill-opacity:1;stroke:none" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3152">
       <path
-         style="fill:#00000f;fill-opacity:1;stroke:none;opacity:1"
-         d="m 635,842.36218 25,0 0,25 -25,0 z"
-         id="path3154"
+         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         id="path3154"
+         d="m 635,842.36218 25,0 0,25 -25,0 z"
+         style="fill:#00000f;fill-opacity:1;stroke:none" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3161">
       <path
-         style="fill:#00000f;fill-opacity:1;stroke:none;opacity:1"
-         d="m 580,842.36218 25,0 0,25 -25,0 z"
-         id="path3163"
+         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         id="path3163"
+         d="m 580,842.36218 25,0 0,25 -25,0 z"
+         style="fill:#00000f;fill-opacity:1;stroke:none" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3169">
       <path
-         style="fill:#00000f;fill-opacity:1;stroke:none;opacity:1"
-         d="m 635,812.36218 25,0 0,30 -25,0 z"
-         id="path3171"
+         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         id="path3171"
+         d="m 635,812.36218 25,0 0,30 -25,0 z"
+         style="fill:#00000f;fill-opacity:1;stroke:none" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3177">
       <path
-         style="fill:#00000f;fill-opacity:1;stroke:none;opacity:1"
-         d="m 605,842.36218 30,0 0,25 -30,0 z"
-         id="path3179"
+         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         id="path3179"
+         d="m 605,842.36218 30,0 0,25 -30,0 z"
+         style="fill:#00000f;fill-opacity:1;stroke:none" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3187">
       <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path3189"
+         style="fill:#00000f;fill-opacity:1;stroke:none"
          d="m 605,812.36218 0,30 -25,0 0,-30 z"
-         style="fill:#00000f;fill-opacity:1;stroke:none;opacity:1" />
+         id="path3189"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
     </clipPath>
     <filter
-       style="color-interpolation-filters:sRGB;opacity:1"
-       y="-0.2"
-       x="-0.2"
-       height="10"
-       width="10"
+       id="filter3961"
        inkscape:label="Drop Shadow"
-       id="filter3961">
+       width="10"
+       height="10"
+       x="-0.2"
+       y="-0.2"
+       style="color-interpolation-filters:sRGB">
       <feFlood
-         result="flood"
-         flood-color="rgb(0,0,0)"
+         id="feFlood3963"
          flood-opacity="0.5"
-         id="feFlood3963" />
+         flood-color="rgb(0,0,0)"
+         result="flood" />
       <feComposite
-         result="composite1"
-         operator="in"
-         in="flood"
+         id="feComposite3965"
          in2="SourceGraphic"
-         id="feComposite3965" />
+         in="flood"
+         operator="in"
+         result="composite1" />
       <feGaussianBlur
-         result="blur"
+         id="feGaussianBlur3967"
          stdDeviation="6"
-         id="feGaussianBlur3967" />
+         result="blur" />
       <feOffset
-         result="offset"
-         dy="0"
+         id="feOffset3969"
          dx="0"
-         id="feOffset3969" />
+         dy="0"
+         result="offset" />
       <feComposite
-         result="composite2"
-         operator="over"
-         in="SourceGraphic"
+         id="feComposite3971"
          in2="offset"
-         id="feComposite3971" />
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
     </filter>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4012">
       <rect
-         ry="4.5911967e-13"
-         y="767.36218"
-         x="525"
-         height="29.999985"
-         width="30"
+         style="fill:#000000;fill-opacity:1;stroke:none"
          id="rect4014"
-         style="fill:#000000;fill-opacity:1;stroke:none;opacity:1" />
+         width="30"
+         height="29.999985"
+         x="525"
+         y="767.36218"
+         ry="4.5911967e-13" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4029">
       <rect
-         ry="4.5911967e-13"
-         y="767.36218"
-         x="510"
-         height="29.999985"
-         width="10"
+         style="fill:#000000;fill-opacity:1;stroke:none"
          id="rect4031"
-         style="fill:#000000;fill-opacity:1;stroke:none;opacity:1" />
+         width="10"
+         height="29.999985"
+         x="510"
+         y="767.36218"
+         ry="4.5911967e-13" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -620,17 +620,17 @@
     <linearGradient
        id="linearGradient3884-9">
       <stop
-         id="stop3886-4"
+         style="stop-color:#000000;stop-opacity:0.25490198;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1" />
+         id="stop3886-4" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1"
+         id="stop3892-9"
          offset="0.5"
-         id="stop3892-9" />
+         style="stop-color:#000000;stop-opacity:0.09411765;" />
       <stop
-         id="stop3888-6"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3888-6" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -644,17 +644,17 @@
     <linearGradient
        id="linearGradient3884-0-2">
       <stop
-         id="stop3886-6-3"
+         style="stop-color:#000000;stop-opacity:0.25490198;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1" />
+         id="stop3886-6-3" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1"
+         id="stop3892-3-9"
          offset="0.5"
-         id="stop3892-3-9" />
+         style="stop-color:#000000;stop-opacity:0.09411765;" />
       <stop
-         id="stop3888-8-5"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3888-8-5" />
     </linearGradient>
     <linearGradient
        y2="711.36218"
@@ -668,17 +668,17 @@
     <linearGradient
        id="linearGradient3106">
       <stop
-         id="stop3108"
+         style="stop-color:#000000;stop-opacity:0.25490198;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1" />
+         id="stop3108" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1"
+         id="stop3110"
          offset="0.5"
-         id="stop3110" />
+         style="stop-color:#000000;stop-opacity:0.09411765;" />
       <stop
-         id="stop3112"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3112" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -692,17 +692,17 @@
     <linearGradient
        id="linearGradient3115-9">
       <stop
-         id="stop3117-8"
+         style="stop-color:#000000;stop-opacity:0.25490198;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1" />
+         id="stop3117-8" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1"
+         id="stop3119-0"
          offset="0.5"
-         id="stop3119-0" />
+         style="stop-color:#000000;stop-opacity:0.09411765;" />
       <stop
-         id="stop3121-4"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3121-4" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -718,21 +718,21 @@
     <linearGradient
        id="linearGradient3827-4">
       <stop
-         id="stop3829-1"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1" />
+         id="stop3829-1" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1"
+         id="stop3835-4"
          offset="0.4545452"
-         id="stop3835-4" />
+         style="stop-color:#000000;stop-opacity:0.25490198;" />
       <stop
-         id="stop3837-7"
+         style="stop-color:#000000;stop-opacity:0.09411765;"
          offset="0.72727263"
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1" />
+         id="stop3837-7" />
       <stop
-         id="stop3831-2"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3831-2" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -748,21 +748,21 @@
     <linearGradient
        id="linearGradient3130">
       <stop
-         id="stop3132"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1" />
+         id="stop3132" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1"
+         id="stop3134"
          offset="0.4545452"
-         id="stop3134" />
+         style="stop-color:#000000;stop-opacity:0.25490198;" />
       <stop
-         id="stop3136"
+         style="stop-color:#000000;stop-opacity:0.09411765;"
          offset="0.72727263"
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1" />
+         id="stop3136" />
       <stop
-         id="stop3138"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3138" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -778,21 +778,21 @@
     <linearGradient
        id="linearGradient3141">
       <stop
-         id="stop3143"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1" />
+         id="stop3143" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1"
+         id="stop3145"
          offset="0.4545452"
-         id="stop3145" />
+         style="stop-color:#000000;stop-opacity:0.25490198;" />
       <stop
-         id="stop3147"
+         style="stop-color:#000000;stop-opacity:0.09411765;"
          offset="0.72727263"
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1" />
+         id="stop3147" />
       <stop
-         id="stop3149"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3149" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -808,21 +808,21 @@
     <linearGradient
        id="linearGradient3152">
       <stop
-         id="stop3154"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1" />
+         id="stop3154" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.25490198;;opacity:1"
+         id="stop3156"
          offset="0.4545452"
-         id="stop3156" />
+         style="stop-color:#000000;stop-opacity:0.25490198;" />
       <stop
-         id="stop3158"
+         style="stop-color:#000000;stop-opacity:0.09411765;"
          offset="0.72727263"
-         style="stop-color:#000000;stop-opacity:0.09411765;;opacity:1" />
+         id="stop3158" />
       <stop
-         id="stop3160"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3160" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
@@ -847,21 +847,21 @@
     <linearGradient
        id="linearGradient3763">
       <stop
-         id="stop3765"
+         style="stop-color:#000000;stop-opacity:0.74509805;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.74509805;;opacity:1" />
+         id="stop3765" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.27450982;;opacity:1"
+         id="stop3773"
          offset="0.5"
-         id="stop3773" />
+         style="stop-color:#000000;stop-opacity:0.27450982;" />
       <stop
-         id="stop3775"
+         style="stop-color:#000000;stop-opacity:0.06666667;"
          offset="0.75"
-         style="stop-color:#000000;stop-opacity:0.06666667;;opacity:1" />
+         id="stop3775" />
       <stop
-         id="stop3767"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;;opacity:1" />
+         id="stop3767" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -872,7 +872,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.37545"
-     inkscape:cx="-54.640352"
+     inkscape:cx="6.6112007"
      inkscape:cy="0.45208158"
      inkscape:document-units="px"
      inkscape:current-layer="bottomleft"
@@ -881,20 +881,20 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true">
     <inkscape:grid
-       originy="-1.1231934e-05"
-       originx="52.000097"
+       type="xygrid"
        id="grid4522"
-       type="xygrid" />
+       originx="52.000097"
+       originy="-1.1231934e-05" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -904,7 +904,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -920,184 +920,184 @@
        style="opacity:0;fill:#ffffff;fill-opacity:0.17647059;stroke:none"
        clip-path="url(#clipPath3145)" />
     <rect
-       y="1044.1594"
-       x="1095.3296"
-       height="9.9999895"
-       width="3"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.41421282"
        id="hint-top-margin"
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.41421282;opacity:1" />
+       width="3"
+       height="9.9999895"
+       x="1095.3296"
+       y="1044.1594" />
     <rect
-       y="1070.6594"
-       x="1067.3296"
-       height="3"
-       width="9.9998703"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.41420448"
        id="hint-left-margin"
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.41420448;opacity:1" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.41421402;opacity:1"
-       id="hint-right-margin"
-       width="10.000008"
+       width="9.9998703"
        height="3"
+       x="1067.3296"
+       y="1070.6594" />
+    <rect
+       y="1071.1594"
        x="1117.3296"
-       y="1071.1594" />
-    <rect
-       transform="rotate(90)"
-       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.41421425;opacity:1"
-       id="hint-bottom-margin"
-       width="10.00001"
        height="3"
-       x="1090.1594"
-       y="-1098.8295" />
+       width="10.000008"
+       id="hint-right-margin"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.41421402" />
     <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:none;opacity:1"
-       id="hint-tile-center"
-       width="5"
-       height="5"
+       y="-1098.8295"
+       x="1090.1594"
+       height="3"
+       width="10.00001"
+       id="hint-bottom-margin"
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.41421425"
+       transform="rotate(90)" />
+    <rect
+       y="1100.1594"
        x="1132.8295"
-       y="1100.1594" />
+       height="5"
+       width="5"
+       id="hint-tile-center"
+       style="fill:#0000ff;fill-opacity:1;stroke:none" />
     <g
-       style="fill:#181b23;fill-opacity:1;opacity:1"
+       id="topright"
        transform="translate(40.000021,-2.631372e-5)"
-       id="topright">
+       style="fill:#171322;fill-opacity:1">
       <path
-         inkscape:connector-curvature="0"
-         style="opacity:0.6;fill:#181b23;fill-opacity:1;stroke:none;stroke-width:180;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 152,12 v 4 h 4 v -3 c 0,-0.554006 -0.44599,-1 -1,-1 z"
+         id="topright-3"
          transform="translate(996.3295,1039.1594)"
-         id="topright-3" />
+         d="m 152,12 v 4 h 4 v -3 c 0,-0.554006 -0.44599,-1 -1,-1 z"
+         style="opacity:0.6;fill:#171322;fill-opacity:1;stroke:none;stroke-width:180;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#181b23;fill-opacity:0.6;stroke:none"
+         id="rect988-7"
          d="m 1148.3296,1050.1594 v 1 h 3 c 0.554,0 1,0.446 1,1 v 3 h 1 v -3 c 0,-1.108 -0.892,-2 -2,-2 z"
-         id="rect988-7" />
+         style="opacity:1;fill:#171322;fill-opacity:0.6;stroke:none"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="top"
        transform="matrix(1.1111111,0,0,1,-138.70328,-2.631372e-5)">
       <rect
-         style="opacity:0.6;fill:#181b23;fill-opacity:1;stroke:none"
-         id="rect1058"
-         width="36"
-         height="4"
-         x="1158.3296"
+         ry="0"
          y="1051.1594"
-         ry="0" />
-      <rect
-         style="opacity:1;fill:#181b23;fill-opacity:0.6;stroke:none"
-         id="rect1060"
-         width="36"
-         height="1"
          x="1158.3296"
-         y="1050.1594" />
+         height="4"
+         width="36"
+         id="rect1058"
+         style="opacity:0.6;fill:#171322;fill-opacity:1;stroke:none" />
+      <rect
+         y="1050.1594"
+         x="1158.3296"
+         height="1"
+         width="36"
+         id="rect1060"
+         style="opacity:1;fill:#171322;fill-opacity:0.6;stroke:none" />
     </g>
     <g
        id="topleft"
        transform="matrix(-1,0,0,1,2296.6591,-2.631372e-5)">
       <path
-         inkscape:connector-curvature="0"
-         style="opacity:0.6;fill:#181b23;fill-opacity:1;stroke:none;stroke-width:180;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 152,12 v 4 h 4 v -3 c 0,-0.554006 -0.44599,-1 -1,-1 z"
+         id="topright-3-3"
          transform="translate(996.3295,1039.1594)"
-         id="topright-3-3" />
+         d="m 152,12 v 4 h 4 v -3 c 0,-0.554006 -0.44599,-1 -1,-1 z"
+         style="opacity:0.6;fill:#171322;fill-opacity:1;stroke:none;stroke-width:180;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#181b23;fill-opacity:0.6;stroke:none"
+         id="rect988-7-5"
          d="m 1148.3296,1050.1594 v 1 h 3 c 0.554,0 1,0.446 1,1 v 3 h 1 v -3 c 0,-1.108 -0.892,-2 -2,-2 z"
-         id="rect988-7-5" />
+         style="opacity:1;fill:#171322;fill-opacity:0.6;stroke:none"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="left"
        transform="matrix(0,1.1111111,1,0,93.170221,-231.87343)">
       <rect
-         style="opacity:0.6;fill:#181b23;fill-opacity:1;stroke:none"
-         id="rect1058-2"
-         width="36"
-         height="4"
-         x="1158.3296"
+         ry="0"
          y="1051.1594"
-         ry="0" />
-      <rect
-         style="opacity:1;fill:#181b23;fill-opacity:0.6;stroke:none"
-         id="rect1060-9"
-         width="36"
-         height="1"
          x="1158.3296"
-         y="1050.1594" />
+         height="4"
+         width="36"
+         id="rect1058-2"
+         style="opacity:0.6;fill:#171322;fill-opacity:1;stroke:none" />
+      <rect
+         y="1050.1594"
+         x="1158.3296"
+         height="1"
+         width="36"
+         id="rect1060-9"
+         style="opacity:1;fill:#171322;fill-opacity:0.6;stroke:none" />
     </g>
     <g
        id="bottomright"
        transform="matrix(1,0,0,-1,40.000021,2150.3188)">
       <path
-         inkscape:connector-curvature="0"
-         style="opacity:0.6;fill:#181b23;fill-opacity:1;stroke:none;stroke-width:180;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 152,12 v 4 h 4 v -3 c 0,-0.554006 -0.44599,-1 -1,-1 z"
+         id="topright-3-2"
          transform="translate(996.3295,1039.1594)"
-         id="topright-3-2" />
+         d="m 152,12 v 4 h 4 v -3 c 0,-0.554006 -0.44599,-1 -1,-1 z"
+         style="opacity:0.6;fill:#171322;fill-opacity:1;stroke:none;stroke-width:180;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#181b23;fill-opacity:0.6;stroke:none"
+         id="rect988-7-7"
          d="m 1148.3296,1050.1594 v 1 h 3 c 0.554,0 1,0.446 1,1 v 3 h 1 v -3 c 0,-1.108 -0.892,-2 -2,-2 z"
-         id="rect988-7-7" />
+         style="opacity:1;fill:#171322;fill-opacity:0.6;stroke:none"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="bottom"
        transform="matrix(1.1111111,0,0,-1,-138.70328,2150.3188)">
       <rect
-         style="opacity:0.6;fill:#181b23;fill-opacity:1;stroke:none"
-         id="rect1058-9"
-         width="36"
-         height="4"
-         x="1158.3296"
+         ry="0"
          y="1051.1594"
-         ry="0" />
-      <rect
-         style="opacity:1;fill:#181b23;fill-opacity:0.6;stroke:none"
-         id="rect1060-3"
-         width="36"
-         height="1"
          x="1158.3296"
-         y="1050.1594" />
+         height="4"
+         width="36"
+         id="rect1058-9"
+         style="opacity:0.6;fill:#171322;fill-opacity:1;stroke:none" />
+      <rect
+         y="1050.1594"
+         x="1158.3296"
+         height="1"
+         width="36"
+         id="rect1060-3"
+         style="opacity:1;fill:#171322;fill-opacity:0.6;stroke:none" />
     </g>
     <g
        id="bottomleft"
        transform="rotate(-180,1148.3296,1075.1594)">
       <path
-         inkscape:connector-curvature="0"
-         style="opacity:0.6;fill:#181b23;fill-opacity:1;stroke:none;stroke-width:180;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 152,12 v 4 h 4 v -3 c 0,-0.554006 -0.44599,-1 -1,-1 z"
+         id="topright-3-3-0"
          transform="translate(996.3295,1039.1594)"
-         id="topright-3-3-0" />
+         d="m 152,12 v 4 h 4 v -3 c 0,-0.554006 -0.44599,-1 -1,-1 z"
+         style="opacity:0.6;fill:#171322;fill-opacity:1;stroke:none;stroke-width:180;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
-         inkscape:connector-curvature="0"
-         style="opacity:0.994;fill:#181b23;fill-opacity:0.60000002;stroke:none"
+         id="rect988-7-5-6"
          d="m 1148.3296,1050.1594 v 1 h 3 c 0.554,0 1,0.446 1,1 v 3 h 1 v -3 c 0,-1.108 -0.892,-2 -2,-2 z"
-         id="rect988-7-5-6" />
+         style="opacity:0.994;fill:#171322;fill-opacity:0.60000002;stroke:none"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="right"
        transform="matrix(0,1.1111111,-1,0,2243.489,-231.87343)">
       <rect
-         style="opacity:0.6;fill:#181b23;fill-opacity:1;stroke:none"
-         id="rect1058-2-6"
-         width="36"
-         height="4"
-         x="1158.3296"
+         ry="0"
          y="1051.1594"
-         ry="0" />
-      <rect
-         style="opacity:1;fill:#181b23;fill-opacity:0.6;stroke:none"
-         id="rect1060-9-1"
-         width="36"
-         height="1"
          x="1158.3296"
-         y="1050.1594" />
+         height="4"
+         width="36"
+         id="rect1058-2-6"
+         style="opacity:0.6;fill:#171322;fill-opacity:1;stroke:none" />
+      <rect
+         y="1050.1594"
+         x="1158.3296"
+         height="1"
+         width="36"
+         id="rect1060-9-1"
+         style="opacity:1;fill:#171322;fill-opacity:0.6;stroke:none" />
     </g>
     <rect
-       y="1055.1594"
-       x="1148.3296"
-       height="40"
-       width="40"
+       style="opacity:0.6;fill:#171322;fill-opacity:1;stroke:none"
        id="center"
-       style="opacity:0.6;fill:#181b23;fill-opacity:1;stroke:none" />
+       width="40"
+       height="40"
+       x="1148.3296"
+       y="1055.1594" />
   </g>
 </svg>

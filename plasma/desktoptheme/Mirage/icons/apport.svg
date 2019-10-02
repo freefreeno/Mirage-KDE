@@ -65,7 +65,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path2"
-       style="fill:#ced1dc"
+       style="fill:#C3C7D1"
        d="M 20,20 H 2 V 2 H 20 Z M 3,3 V 19 H 19 V 3 Z m 8,11 c 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 z M 12,7 C 12,6.448 11.552,6 11,6 10.448,6 10,6.448 10,7 v 5 c 0,0.552 0.448,1 1,1 0.552,0 1,-0.448 1,-1 z" />
     <rect
        y="0"
@@ -82,7 +82,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path2-5"
-       style="fill:#ced1dc"
+       style="fill:#C3C7D1"
        d="M 3,27 V 5 H 29 V 27 Z M 28,10 H 4 V 26 H 28 Z M 16,22 c 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 z m 1,-9 c 0,-0.552 -0.448,-1 -1,-1 -0.552,0 -1,0.448 -1,1 v 7 c 0,0.552 0.448,1 1,1 0.552,0 1,-0.448 1,-1 z M 4,6 V 9 H 28 V 6 Z M 27,8 H 25 V 7 h 2 z M 24,8 H 22 V 7 h 2 z M 21,8 H 19 V 7 h 2 z"
        sodipodi:nodetypes="ccccccccccsssssssssssscccccccccccccccccccc" />
     <rect

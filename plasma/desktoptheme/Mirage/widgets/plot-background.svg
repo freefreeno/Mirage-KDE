@@ -13,9 +13,9 @@
    height="12"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.4 (unknown)"
    version="1.0"
-   sodipodi:docname="plot-background.svg"
+   sodipodi:docname="plot-background.svgz"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape">
   <defs
      id="defs4">
@@ -29,13 +29,13 @@
     <linearGradient
        id="linearGradient3134">
       <stop
-         id="stop3136"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;;opacity:1" />
+         id="stop3136" />
       <stop
-         id="stop3138"
+         style="stop-color:#ffffff;stop-opacity:0.35294119;"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0.35294119;;opacity:1" />
+         id="stop3138" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -49,18 +49,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="26.510193"
-     inkscape:cx="-4.5132221"
+     inkscape:cx="0.97523282"
      inkscape:cy="3.0433061"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="800px"
      height="600px"
-     inkscape:window-width="711"
-     inkscape:window-height="433"
-     inkscape:window-x="1065"
-     inkscape:window-y="386"
+     inkscape:window-width="1366"
+     inkscape:window-height="723"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
      showgrid="false"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,12 +84,12 @@
      id="layer1"
      transform="translate(-551.14285,-154)">
     <rect
-       style="fill:#181b23;fill-opacity:1;stroke:none;opacity:0.4"
-       id="center"
-       width="12"
-       height="12"
-       x="551.14288"
+       inkscape:label="#rect4137"
        y="154"
-       inkscape:label="#rect4137" />
+       x="551.14288"
+       height="12"
+       width="12"
+       id="center"
+       style="fill:#171322;fill-opacity:1;stroke:none;opacity:0.4" />
   </g>
 </svg>

@@ -99,7 +99,7 @@
      id="quassel">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#ced1dc;fill-opacity:1"
+       style="fill:#C3C7D1;fill-opacity:1"
        id="path2-0"
        d="m 14,9 v 5 H 8 V 9 8 h 6 z M 13,9 H 9 v 4 h 4 z m 4,11 H 13 V 17 H 9 v 3 H 5 V 17 H 2 V 13 H 5 V 9 H 2 V 5 H 5 V 2 h 4 v 3 h 4 V 2 h 4 v 3 h 3 v 4 h -3 v 4 h 3 v 4 H 17 Z M 6,6 H 3 v 2 h 3 v 6 H 3 v 2 h 3 v 3 h 2 v -3 h 6 v 3 h 2 v -3 h 3 V 14 H 16 V 13 9 8 h 3 V 6 H 16 V 5 3 H 14 V 6 H 8 V 5 3 H 6 Z" />
     <rect
@@ -135,7 +135,7 @@
      transform="translate(-22)">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.6;fill:#ced1dc;fill-opacity:1"
+       style="opacity:0.6;fill:#C3C7D1;fill-opacity:1"
        id="path2-0-2-7"
        d="m 14,9 v 5 H 8 V 9 8 h 6 z M 13,9 H 9 v 4 h 4 z m 4,11 H 13 V 17 H 9 v 3 H 5 V 17 H 2 V 13 H 5 V 9 H 2 V 5 H 5 V 2 h 4 v 3 h 4 V 2 h 4 v 3 h 3 v 4 h -3 v 4 h 3 v 4 H 17 Z M 6,6 H 3 v 2 h 3 v 6 H 3 v 2 h 3 v 3 h 2 v -3 h 6 v 3 h 2 v -3 h 3 V 14 H 16 V 13 9 8 h 3 V 6 H 16 V 5 3 H 14 V 6 H 8 V 5 3 H 6 Z" />
     <rect

@@ -105,7 +105,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path2"
-       style="fill:#ced1dc"
+       style="fill:#C3C7D1"
        d="M 10,10 V 3 h 2 v 7 h 7 v 2 h -7 v 7 H 10 V 12 H 3 v -2 z" />
     <rect
        y="0"
@@ -122,7 +122,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path2-2"
-       style="fill:#ced1dc"
+       style="fill:#C3C7D1"
        d="M 7,7 V 2 h 2 v 5 h 5 V 9 H 9 v 5 H 7 V 9 H 2 V 7 Z" />
     <rect
        y="0"

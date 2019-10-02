@@ -1,5 +1,5 @@
 [Desktop Entry]
-Comment=Dark theme KDE Plasma theme for use with transparency or without
+Comment=Dark purple/black KDE Plasma theme for use with transparency or without
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;
 Name=Mirage
@@ -9,7 +9,7 @@ X-KDE-PluginInfo-Email=freefreeno81@gmail.com
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPL 3+
 X-KDE-PluginInfo-Name=Mirage
-X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Version=1.0.0
 X-KDE-PluginInfo-Website=https://github.com/freefreeno/Mirage-KDE
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-Plasma-MainScript=defaults

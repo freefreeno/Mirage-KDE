@@ -112,7 +112,7 @@
          inkscape:connector-curvature="0"
          id="path2"
          d="M 9,2 V 3 8 H 6.2011719 4.7871094 L 10.929688,14.142578 17.070312,8 H 16 13 V 2 Z m 1,1 h 2 v 6 h 1 1.65625 L 10.929688,12.728516 7.2011719,9 H 9 10 Z M 2,13 v 7 h 18 v -7 h -4 v 3 H 6 v -3 z m 1,1 h 2 v 3 H 17.015625 L 17,14 h 2 v 5 H 3 Z"
-         style="fill:#ced1dc" />
+         style="fill:#C3C7D1" />
       <rect
          y="0"
          x="0"
@@ -128,12 +128,12 @@
       <path
          inkscape:connector-curvature="0"
          id="path2-0"
-         style="fill:#ced1dc"
+         style="fill:#C3C7D1"
          d="m 19,13 h 4 l -7,7 -7,-7 h 4 V 4 h 6 z M 18,5 h -4 v 9 H 11.414 L 16,18.586 20.586,14 H 18 Z" />
       <path
          inkscape:connector-curvature="0"
          id="path4"
-         style="fill:#ced1dc"
+         style="fill:#C3C7D1"
          d="M 29,28 H 3 V 17 h 5 v 5 h 16 v -5 h 5 z M 28,18 h -3 v 5 H 7 V 18 H 4 v 9 h 24 z" />
       <rect
          y="0"

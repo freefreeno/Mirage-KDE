@@ -107,7 +107,7 @@
      id="layer1"
      transform="translate(1.7382813e-5,-988.36222)">
     <svg:rect
-       style="fill:#0bfdf0;fill-opacity:1"
+       style="fill:#b96bff;fill-opacity:1"
        id="hint-scrollbar-size"
        width="6"
        height="6"
@@ -316,9 +316,9 @@
     <svg:g
        id="sunken-slider-topright"
        transform="translate(-78.000025,43.000046)"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#b96bff;fill-opacity:1">
       <svg:path
-         style="opacity:1;fill:#0bfdf0;fill-opacity:1"
+         style="opacity:1;fill:#b96bff;fill-opacity:1"
          d="m 100,1001.3622 0,2 2,0 c 0,-1.108 -0.89201,-2 -2,-2 z"
          id="path4559"
          inkscape:connector-curvature="0" />
@@ -326,19 +326,19 @@
     <svg:g
        transform="matrix(-1,0,0,1,118.99999,43.000046)"
        id="sunken-slider-topleft"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#b96bff;fill-opacity:1">
       <svg:path
          inkscape:connector-curvature="0"
          id="path4565"
          d="m 100,1001.3622 0,2 2,0 c 0,-1.108 -0.89201,-2 -2,-2 z"
-         style="opacity:1;fill:#0bfdf0;fill-opacity:1" />
+         style="opacity:1;fill:#b96bff;fill-opacity:1" />
     </svg:g>
     <svg:g
        id="sunken-slider-top"
        transform="translate(-79.000017,43.000046)"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#b96bff;fill-opacity:1">
       <svg:rect
-         style="opacity:1;fill:#0bfdf0;fill-opacity:1"
+         style="opacity:1;fill:#b96bff;fill-opacity:1"
          id="rect4571"
          width="1"
          height="2"
@@ -348,21 +348,21 @@
     <svg:g
        transform="matrix(0,9.000003,-1,0,1025.3622,156.36193)"
        id="sunken-slider-right"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#b96bff;fill-opacity:1">
       <svg:rect
          y="1001.3622"
          x="99"
          height="2"
          width="1"
          id="rect4577"
-         style="opacity:1;fill:#0bfdf0;fill-opacity:1" />
+         style="opacity:1;fill:#b96bff;fill-opacity:1" />
     </svg:g>
     <svg:g
        id="sunken-slider-left"
        transform="matrix(0,9.000003,1,0,-984.3622,156.36193)"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#b96bff;fill-opacity:1">
       <svg:rect
-         style="opacity:1;fill:#0bfdf0;fill-opacity:1"
+         style="opacity:1;fill:#b96bff;fill-opacity:1"
          id="rect4583"
          width="1"
          height="2"
@@ -372,19 +372,19 @@
     <svg:g
        transform="matrix(1,0,0,-1,-78.000017,2060.7244)"
        id="sunken-slider-bottomright"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#b96bff;fill-opacity:1">
       <svg:path
          inkscape:connector-curvature="0"
          id="path4589"
          d="m 100,1001.3622 0,2 2,0 c 0,-1.108 -0.89201,-2 -2,-2 z"
-         style="opacity:1;fill:#0bfdf0;fill-opacity:1" />
+         style="opacity:1;fill:#b96bff;fill-opacity:1" />
     </svg:g>
     <svg:g
        id="sunken-slider-bottomleft"
        transform="matrix(-1,0,0,-1,118.99999,2060.7244)"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#b96bff;fill-opacity:1">
       <svg:path
-         style="opacity:1;fill:#0bfdf0;fill-opacity:1"
+         style="opacity:1;fill:#b96bff;fill-opacity:1"
          d="m 100,1001.3622 0,2 2,0 c 0,-1.108 -0.89201,-2 -2,-2 z"
          id="path4595"
          inkscape:connector-curvature="0" />
@@ -392,14 +392,14 @@
     <svg:g
        transform="matrix(1,0,0,-1,-79.000017,2060.7244)"
        id="sunken-slider-bottom"
-       style="fill:#0bfdf0;fill-opacity:1">
+       style="fill:#b96bff;fill-opacity:1">
       <svg:rect
          y="1001.3622"
          x="99"
          height="2"
          width="1"
          id="rect4601"
-         style="opacity:1;fill:#0bfdf0;fill-opacity:1" />
+         style="opacity:1;fill:#b96bff;fill-opacity:1" />
     </svg:g>
     <svg:rect
        y="1047.3622"
@@ -407,6 +407,6 @@
        height="9"
        width="1"
        id="sunken-slider-center"
-       style="opacity:1;fill:#0bfdf0;fill-opacity:1" />
+       style="opacity:1;fill:#b96bff;fill-opacity:1" />
   </svg:g>
 </svg:svg>

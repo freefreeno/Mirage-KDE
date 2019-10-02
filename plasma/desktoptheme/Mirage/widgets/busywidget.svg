@@ -16,42 +16,42 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="busywidget-n.svg">
+   sodipodi:docname="busywidget.svg">
   <defs
      id="defs4">
     <linearGradient
-       id="linearGradient1027"
+       id="linearGradient887"
        inkscape:collect="always">
       <stop
-         id="stop1023"
+         id="stop883"
          offset="0"
-         style="stop-color:#16f66c;stop-opacity:1" />
+         style="stop-color:#6b3ef2;stop-opacity:1" />
       <stop
-         id="stop1025"
+         id="stop885"
          offset="1"
-         style="stop-color:#1fc8f7;stop-opacity:1" />
+         style="stop-color:#e98aff;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       id="linearGradient1021"
+       id="linearGradient881"
        inkscape:collect="always">
       <stop
-         id="stop1017"
+         id="stop877"
          offset="0"
-         style="stop-color:#16f66c;stop-opacity:1" />
+         style="stop-color:#6b3ef2;stop-opacity:1" />
       <stop
-         id="stop1019"
+         id="stop879"
          offset="1"
-         style="stop-color:#1fc8f7;stop-opacity:1" />
+         style="stop-color:#e98aff;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient837">
       <stop
-         style="stop-color:#16f66c;stop-opacity:1"
+         style="stop-color:#6b3ef2;stop-opacity:1"
          offset="0"
          id="stop833" />
       <stop
-         style="stop-color:#1fc8f7;stop-opacity:1"
+         style="stop-color:#e98aff;stop-opacity:1"
          offset="1"
          id="stop835" />
     </linearGradient>
@@ -59,8 +59,8 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c1cbd5;
+        stop-color:#c1cbd5;
       }
       .ColorScheme-Background {
         color:#eff0f1;
@@ -71,8 +71,8 @@
         stop-color:#3daee9;
       }
       .ColorScheme-ViewText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c1cbd5;
+        stop-color:#c1cbd5;
       }
       .ColorScheme-ViewBackground {
         color:#fcfcfc;
@@ -87,8 +87,8 @@
         stop-color:#3daee9;
       }
       .ColorScheme-ButtonText {
-        color:#31363b;
-        stop-color:#31363b;
+        color:#c1cbd5;
+        stop-color:#c1cbd5;
       }
       .ColorScheme-ButtonBackground {
         color:#eff0f1;
@@ -105,7 +105,7 @@
       </style>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1021"
+       xlink:href="#linearGradient837"
        id="linearGradient839"
        x1="55"
        y1="136.00003"
@@ -114,7 +114,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1027"
+       xlink:href="#linearGradient881"
        id="linearGradient847"
        x1="7.0000062"
        y1="22.968817"
@@ -123,7 +123,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient837"
+       xlink:href="#linearGradient887"
        id="linearGradient855"
        x1="5.9999914"
        y1="14.968805"
@@ -138,9 +138,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.11"
-     inkscape:cx="120.74412"
-     inkscape:cy="38.05314"
+     inkscape:zoom="10.095417"
+     inkscape:cx="166.76233"
+     inkscape:cy="39.547001"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -148,7 +148,7 @@
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:window-height="1019"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -266,9 +266,9 @@
          cy="231.38329"
          cx="-38.100002"
          id="path4642"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.08179748;stroke-opacity:1" />
+         style="opacity:1;fill:#9264fc;fill-opacity:1;stroke:none;stroke-width:1.08179748;stroke-opacity:1" />
       <circle
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.08179748;stroke-opacity:1"
+         style="opacity:1;fill:#9264fc;fill-opacity:1;stroke:none;stroke-width:1.08179748;stroke-opacity:1"
          id="circle4644"
          cx="-24.870836"
          cy="231.38329"
@@ -278,7 +278,7 @@
          cy="231.38329"
          cx="-11.377086"
          id="circle4646"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.08179748;stroke-opacity:1" />
+         style="opacity:1;fill:#9264fc;fill-opacity:1;stroke:none;stroke-width:1.08179748;stroke-opacity:1" />
       <rect
          y="213.39162"
          x="-42.862503"
