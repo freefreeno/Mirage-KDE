@@ -13,4 +13,4 @@ X-KDE-PluginInfo-Version=1.0.0
 X-KDE-PluginInfo-Website=https://github.com/freefreeno/Mirage-KDE
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1312310,kns://plasma-themes.knsrc/api.kde-look.org/1312311,kns://aurorae.knsrc/api.kde-look.org/1312313,kns://icons.knsrc/api.kde-look.org/1312316,kns://wallpaper.knsrc/api.kde-look.org/1296893
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1312310,kns://plasma-themes.knsrc/api.kde-look.org/1312311,kns://icons.knsrc/api.kde-look.org/1312316,kns://wallpaper.knsrc/api.kde-look.org/1328330
